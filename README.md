@@ -1,6 +1,6 @@
 # PopupWhacker
 
-[PopupWhacker](https://img.shields.io/badge/Windows-10%2B-brightgreen?logo=windows) [Python](https://img.shields.io/badge/Python-3.6%2B-blue?logo=python)
+![PopupWhacker](https://img.shields.io/badge/Windows-10%2B-brightgreen?logo=windows) ![Python](https://img.shields.io/badge/Python-3.6%2B-blue?logo=python)
 
 A lightweight script designed for Windows systems to automatically close non-minimizable application pop-up windows during startup.
 
